@@ -9,7 +9,7 @@ License
 Source Code
 -----------
 
-  <code>https://github.com/authlete/java-oauth-server</code>
+  <code>https://github.com/Niranjanbabumv/java-oauth-server</code>
 
 
 
@@ -19,7 +19,7 @@ How To Run
 
 1. Download the source code of this authorization server implementation.
 
-        $ git clone https://github.com/authlete/java-oauth-server.git
+        $ git clone https://github.com/Niranjanbabumv/java-oauth-server
         $ cd java-oauth-server
 
 2. Edit the configuration file to set the API credentials of yours.
